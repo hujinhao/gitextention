@@ -12,3 +12,8 @@ uint8 master(void)
    return 0;
 }
 
+uint8 master1(void)
+{
+   print branch
+   return 0;
+}
