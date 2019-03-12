@@ -8,6 +8,7 @@ uint8 main(void)
 
 uint8 master(void)
 {
+   print branch
    return 0;
 }
 
