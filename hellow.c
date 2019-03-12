@@ -7,5 +7,6 @@ uint8 main(void)
 
 uint8 branch(void)
 {
+   print branch
    return 0;
 }
