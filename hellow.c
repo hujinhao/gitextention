@@ -9,4 +9,7 @@ uint8 branch(void)
 {
    print branch
    return 0;
+   
+   
+   branch2
 }
