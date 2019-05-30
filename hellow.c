@@ -12,4 +12,5 @@ uint8 branch(void)
    
    
    branch2
+   branch2
 }
