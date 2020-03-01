@@ -8,3 +8,4 @@ int main(void)
 int test(void)
 {
 }
+int test3(void){}
