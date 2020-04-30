@@ -7,6 +7,7 @@ int main(void)
 
 int test(void)
 {
+   return 0;
 }
 int test3(void)
 {
