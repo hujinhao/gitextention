@@ -9,4 +9,6 @@ int test(void)
 {
 }
 int test3(void)
-{}
+{
+   return 0;
+}
