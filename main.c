@@ -12,5 +12,6 @@ int test(void)
 int test3(void)
 {
    int a;
+   int b;
    return 0;
 }
